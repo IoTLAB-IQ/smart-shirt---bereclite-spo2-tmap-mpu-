@@ -1,3 +1,10 @@
 
 email : smart.shirt.iot@gmail.com
 pass : iotiotiot
+
+=================================
+
+Ask sensor information 
+
+email : smart.shirt.iot@gmail.com
+pass : iotiotiot
