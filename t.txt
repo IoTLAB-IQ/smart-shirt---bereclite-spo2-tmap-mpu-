@@ -6,5 +6,5 @@ pass : iotiotiot
 
 Ask sensor information 
 
-email : smart.shirt.iot@gmail.com
+name : smart.shirt.iot
 pass : iotiotiot
