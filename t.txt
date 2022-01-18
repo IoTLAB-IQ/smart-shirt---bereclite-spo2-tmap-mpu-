@@ -8,3 +8,9 @@ Ask sensor information
 
 name : smart.shirt.iot
 pass : iotiotiot
+
+
+new email and account :
+
+email : iotsmartshirt@gmail.com
+pass : iotiotiot
